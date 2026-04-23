@@ -1,5 +1,5 @@
 # STEMboost
-[![Project Presentation](https://img.youtube.com/vi/nKOtbG9w2Jo/0.jpg)](https://youtu.be/nKOtbG9w2Jo)
+[![Project Presentation](https://github.com/AliAkber123/STEM__Boost/blob/main/media/chapter_images/Thum.png?raw=true)](https://youtu.be/nKOtbG9w2Jo)
 
 **An accessible STEM learning platform for blind and visually-impaired (BVI) learners.**
 
